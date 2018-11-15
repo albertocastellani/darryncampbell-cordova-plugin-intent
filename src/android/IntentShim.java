@@ -1,4 +1,4 @@
-package com.darryncampbell.cordova.plugin.intent;
+package cs.darryncampbell.cordova.plugin.intent;
 
 import android.Manifest;
 import android.app.Activity;
